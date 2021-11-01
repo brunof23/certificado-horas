@@ -3,7 +3,7 @@
 
 PS: Link para repositório do front: <a> https://github.com/brunof23/sistema-horas-front<a> Devido a erros no processo de upload, tive que subir separado.
   
-  Link para vídeo no Youtube de demonstração do sistema funcionando
+  Link para vídeo no Youtube de demonstração do sistema funcionando https://youtu.be/UTOGuoao5tM
   
   ### Intruções:
 
